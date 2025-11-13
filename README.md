@@ -1,0 +1,5 @@
+## dev workshop
+
+```
+git add *
+```
