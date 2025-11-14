@@ -114,17 +114,4 @@
 | `git archive --format=zip HEAD > project.zip` | Export your repo as a ZIP                          |
 | `git alias`                                   | Create shortcuts for commands                      |
 
----
 
-## **Example Everyday Workflow**
-
-```bash
-git clone https://github.com/user/project.git
-cd project
-git checkout -b feature-login
-git add .
-git commit -m "Add login feature"
-git fetch origin master
-git merge origin/master
-git push -u origin feature-login
-```
