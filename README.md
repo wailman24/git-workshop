@@ -48,6 +48,7 @@
 | `git checkout <branch>`  | Switch branch                    |
 | `git checkout -b <name>` | Create & switch to new branch    |
 | `git merge <branch>`     | Merge branch into current one    |
+| `git rebase <branch>`    | rebase the current branch into other one    |
 | `git branch -d <branch>` | Delete branch                    |
 | `git branch -D <branch>` | Force delete branch              |
 
